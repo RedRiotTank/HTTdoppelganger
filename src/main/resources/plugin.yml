@@ -1,0 +1,4 @@
+name: HTTdoppelganger
+version: '1.0-SNAPSHOT'
+main: htt.HTTdoppelganger
+api-version: '1.21'
